@@ -1,0 +1,14 @@
+[
+    {
+        "id": 2,
+        "author": "Jane ",
+        "title": "Second Post",
+        "content": "This is another post. about blogging"
+    },
+    {
+        "id": 3,
+        "author": "Saleem Abbas",
+        "title": "iOS Engineering",
+        "content": "Here is my first post about it"
+    }
+]
